@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyBdd", "EasyBdd.csproj", "{CA3EFBF1-C527-4A6F-9C1D-993983452EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyBddExample", "..\EasyBddExample\EasyBddExample.csproj", "{6B408F14-30EF-4310-ADC3-E9DBA447AE1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA3EFBF1-C527-4A6F-9C1D-993983452EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3EFBF1-C527-4A6F-9C1D-993983452EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3EFBF1-C527-4A6F-9C1D-993983452EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3EFBF1-C527-4A6F-9C1D-993983452EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B408F14-30EF-4310-ADC3-E9DBA447AE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B408F14-30EF-4310-ADC3-E9DBA447AE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B408F14-30EF-4310-ADC3-E9DBA447AE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B408F14-30EF-4310-ADC3-E9DBA447AE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
