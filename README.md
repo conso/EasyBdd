@@ -1,5 +1,5 @@
 # EasyBdd
-The lightweight, uninvasive Bdd framework for .NET written in c#
+The lightweight, uninvasive, smallest framework supporting Behaviour Driven Development for .NET written in c#.
 
 In effect calling it a "framework" it is maybe an euphemism. One single abstract class will give the infrastructure to write readable code that business people and testers can easily understand, change and fix.
 
