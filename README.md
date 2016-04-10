@@ -1,6 +1,7 @@
-# EasyBdd - Behaviour Driven Development framework based on one abstract class only
-### The lightweight, uninvasive, super extensible BDD tool for .NET written in c#. 
-In 10 minutes you will be hooked and already back focusing on your tests using it!
+# EasyBdd 
+###The lightweight, uninvasive, super extensible BDD tool for .NET written in c#. 
+One abstract class only is enough for making Behaviour Driven Development easier.
+In 10 minutes or less, you will be hooked and ready to go back focusing on your tests!
 
 ##Quick start
   1) reference EasyBdd and Nunit
