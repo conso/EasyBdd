@@ -1,6 +1,7 @@
-# EasyBdd - Behaviour Driven Development framework based on one abstract class only
-### The lightweight, uninvasive, super extensible BDD tool for .NET written in c#. 
-In 10 minutes you will be hooked and already back focusing on your tests using it!
+# EasyBdd 
+###The lightweight, uninvasive, super extensible BDD tool for .NET written in c#. 
+One abstract class only is enough for making Behaviour Driven Development easier.
+In 10 minutes or less, you will be hooked and ready to go back focusing on your tests!
 
 ##Quick start
   1) reference EasyBdd and Nunit
@@ -39,7 +40,8 @@ In 10 minutes you will be hooked and already back focusing on your tests using i
   - A neat way to separate the definitions of your behaviours that any tester can pick up with little effort. It's ideal for an approach "Acceptance Tests First", where tester prepare the scheletons of the tests directly in to the solution. Such a time saver!!
   - The paradigm Given-When-Then-And built in the base class exposing the methods. 
   - Run tests in native NUnit along with all other tests in your CI environment, no need to add scripts for new tools.
-  - If you need documentation you can easily write a parser to save the specs in well formatted documents (Basically it's not my code being generated from the docs, but the other way around!)
+  - If you need documentation you can easily write a parser to save the specs in well formatted documents 
+  (So it's not the code being generated from the docs, but the other way around!)
 
 ##Side notes
 I wrote this little code snippet some time ago, when in our team the discussions about "what BDD framework?" begun. I used some popular tools in the past and the cleanliness of the language was inevitably traded off with terrible solutions like old fashioned auto-generated code. There is nothing I hate more then a tool which create noise behind the scene (and get in the way every time I need to debug a test.... grrrrr!!!) So I always had this idea in mind: if we move the trade off in the ubiquitous specification language page, we can keep the codebase cleaner, while a business person is not so stupid to be scared by something that start with "public class", as far as it is easy enough to read and modify common language into it.
