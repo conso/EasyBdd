@@ -1,6 +1,6 @@
 # EasyBdd
 
-The lightweight, uninvasive, super extensible BDD tool for .NET written in C#.
+The lightweight, uninvasive, super extensible BDD micro-framework for .NET written in C#.
 
 One abstract class only is enough for making Behaviour Driven Development easier.
 In 10 minutes or less, you will be hooked and ready to go back focusing on your tests!
